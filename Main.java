@@ -4,7 +4,7 @@ public class Main {
         Multiplication multi = new Multiplication();
         
 
-        multi.method1();
+        multi.method3();
 
         
 
